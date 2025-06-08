@@ -1,0 +1,62 @@
+# Theme
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+
+# Site Settings
+locale: "ko-KR"
+title: "은선님의 포트폴리오"
+subtitle: "Frontend Engineer"
+name: "grapefruitgreentealoe"
+description: "React · TypeScript · Next.js · SwiftUI · macOS"
+url: "https://grapefruitgreentealoe.github.io"
+baseurl: ""
+repository: "grapefruitgreentealoe/grapefruitgreentealoe.github.io"
+logo: "/assets/images/avatar.png"
+masthead_title: "남궁은선 포트폴리오"
+breadcrumbs: false
+words_per_minute: 200
+
+# Site Author
+author:
+  name: "남궁은선 (grapefruitgreentealoe)"
+  avatar: "/assets/images/avatar.png"
+  bio: "구조 중심 문제 해결과 빠른 릴리즈로 사용자 가치를 만드는 프론트엔드 엔지니어"
+  location: "Seoul, Korea"
+  email: "eunsun@example.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/grapefruitgreentealoe"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/eunsun-namgung-975391186/"
+    - label: "Blog"
+      icon: "fas fa-fw fa-blog"
+      url: "https://velog.io/@grapefruitgreen"
+
+# Footer (메인에서는 안 보여주려면 비워두세요)
+footer:
+  links: []
+
+# Defaults
+defaults:
+  # 모든 페이지를 single layout 으로
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      comments: false
+
+  # 포스트는 share·related만 켤 경우
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: false
+      related: true

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ page.title | default: "남궁은선 이력서" }}</title>
+    <style>
+      body {
+        font-family: "Noto Sans KR", sans-serif;
+        margin: 0;
+        padding: 40px;
+        color: #333;
+      }
+      .header {
+        display: grid;
+        grid-template-columns: 3fr 1fr;
+        align-items: start;
+        grid-gap: 20px;
+      }
+      h1 {
+        font-size: 36px;
+        margin: 0;
+      }
+      .subtitle {
+        font-size: 16px;
+        color: #666;
+        margin-top: 4px;
+      }
+      .header-right {
+        font-size: 14px;
+        line-height: 1.6;
+      }
+      .header-right div {
+        margin-bottom: 8px;
+      }
+      .divider {
+        border-top: 2px solid #ddd;
+        margin: 16px 0;
+      }
+      .content {
+        width: 100%;
+      }
+      section {
+        margin-bottom: 24px;
+      }
+      section h2 {
+        font-size: 18px;
+        margin-bottom: 12px;
+        position: relative;
+      }
+      section h2::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: -4px;
+        width: 40px;
+        height: 2px;
+        background: #333;
+      }
+      p,
+      ul {
+        font-size: 14px;
+        line-height: 1.6;
+        margin: 0;
+      }
+      ul {
+        padding-left: 20px;
+        margin-top: 8px;
+      }
+      .career-grid {
+        display: grid;
+        grid-template-columns: 1fr 3fr;
+        grid-gap: 8px 24px;
+      }
+      .career-wrapper {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+      }
+      .projects-wrapper {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+      }
+      .company {
+        font-weight: bold;
+        font-size: 15px;
+      }
+      .role {
+        font-weight: bold;
+      }
+      .period {
+        display: block;
+        font-style: italic;
+        color: #666;
+        font-size: 13px;
+        margin-bottom: 8px;
+      }
+      .bold {
+        font-weight: bold;
+      }
+      .role {
+        display: block;
+        color: #666;
+        font-size: 13px;
+        font-weight: bold;
+      }
+      a {
+        color: #0366d6;
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>
