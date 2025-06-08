@@ -30,14 +30,6 @@ permalink: /
       </ul>
     </section>
     <section>
-      <h2>링크</h2>
-      <ul>
-        <li>GitHub: <a href="https://github.com/grapefruitgreentealoe" target="_blank">@grapefruitgreentealoe</a></li>
-        <li>LinkedIn: <a href="https://www.linkedin.com/in/eunsun-namgung-975391186/" target="_blank">남궁은선</a></li>
-        <li>Blog: <a href="https://velog.io/@grapefruitgreen/posts" target="_blank">velog.io/@grapefruitgreen/posts</a></li>
-      </ul>
-    </section>
-    <section>
       <h2>기술 스택</h2>
       <ul>
         <li><span class="bold">Frontend</span>: React, TypeScript, Vite, Next.js, Jotai, React Query, Zod, Tailwind CSS, Shadcn UI, Storybook</li>
@@ -72,9 +64,9 @@ permalink: /
                 <ul>
                     <li>Epic-Story-Task 기반 협업 구조 도입, 온보딩 주도</li>
                     <li>Turborepo + Docker 기반 모노레포 환경 구성</li>
-                    <li>GitLab CI/CD 파이프라인 구축 → <span class="bold">배포 시간 약 40% 단축</span></li>
-                    <li>지도 이동 최적화 → <span class="bold">API 호출 약 60% 감소</span></li>
-                    <li>Optimistic Update → <span class="bold">UX 체감속도 2배 개선, API 호출 수 개선</span></li>
+                    <li>GitLab CI/CD 파이프라인 구축 → <span class="underline">배포 시간 약 40% 단축</span></li>
+                    <li>지도 이동 최적화 → <span class="underline">API 호출 약 60% 감소</span></li>
+                    <li>Optimistic Update → <span class="underline">UX 체감속도 2배 개선, API 호출 수 개선</span></li>
                     <li>병원 즐겨찾기, 후기 작성 기능 개발 / 실시간 채팅 기능 구현</li>
                 </ul>
                 </div>
@@ -116,7 +108,7 @@ permalink: /
                         <ul>
                         <li>상품 옵션 단위로 주문을 분할 처리할 수 있는 새로운 주문 관리 방식 도입</li>
                         <li>주문 상세, 결제, 취소/반품/환불 기능을 시각적으로 직관적인 구조로 개편</li>
-                        <li><span class="bold">디자인 시스템</span> 도입하여 인터페이스 일관성 확보</li>
+                        <li><span class="">디자인 시스템</span> 도입하여 인터페이스 일관성 확보</li>
                         <li>운영자가 전체 주문 흐름을 한눈에 파악하도록 개선</li>
                         </ul>
                     </div>
@@ -128,7 +120,7 @@ permalink: /
                         </p>
                         <ul>
                         <li>GHA 기반 캐시 무효화 자동화</li>
-                        <li>소셜 로그인 및 API 연동 관리 페이지 리빌드 및 <span class="bold">UX 개선</span></li>
+                        <li>소셜 로그인 및 API 연동 관리 페이지 리빌드 및 <span>UX 개선</span></li>
                         </ul>
                     </div>
                     <div>
