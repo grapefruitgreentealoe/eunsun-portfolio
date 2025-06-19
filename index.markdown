@@ -11,7 +11,7 @@ permalink: /
     </div>
     <div class="header-right">
       <div><span class="bold">GitHub:</span> @grapefruitgreentealoe</div>
-      <div><span class="bold">LinkedIn:</span> 남궁은선</div>
+      <div><span class="bold">LinkedIn:</span> https://www.linkedin.com/in/eunsun-namgung-975391186/</div>
       <div><span class="bold">Blog:</span> velog.io/@grapefruitgreen/posts</div>
     </div>
   </div>
@@ -23,7 +23,7 @@ permalink: /
       <p>새로운 기술 도입이나 미지의 문제에 도전하며, 리더십과 팔로우십을 유연하게 오가며 팀의 목표 달성을 돕습니다.</p>
       <ul>
         <li>구조 중심의 문제 해결을 통해 생산성 높이기, 협업을 위한 소통에 강점</li>
-        <li>프로젝트 매니징 경험</li>
+        <li>애자일 방식의 프로젝트 매니징 경험</li>
         <li><span class="bold">모노레포, 디자인 시스템, CI/CD</span> 전반 경험</li>
         <li>1인 창업준비 경험을 통해 <span class="bold">제품 중심 사고와 실행력</span></li>
         <li>모의면접 스터디 운영. 매주 기술 세미나로 배운 내용 공유</li>
@@ -32,7 +32,7 @@ permalink: /
     <section>
       <h2>기술 스택</h2>
       <ul>
-        <li><span class="bold">Frontend</span>: React, TypeScript, Vite, Next.js, Jotai, React Query, Zod, Tailwind CSS, Shadcn UI, Storybook</li>
+        <li><span class="bold">Frontend</span>: React, TypeScript, Vite, Next.js, Zustand, React Query, Zod, Tailwind CSS, Shadcn UI, Storybook</li>
         <li><span class="bold">Infra</span>: AWS (EC2, S3, CloudFront, Nginx), GitHub Actions, Docker, GitLab Runner</li>
       </ul>
     </section>
@@ -53,7 +53,7 @@ permalink: /
                 <span class="period">2025.4.07 ~ 2025.4.30</span>
                 <p>프론트엔드, 프로젝트 매니징</p>
                 <p>
-                    <a href="https://www.notion.so/MediNow-1d71311db28780a988e0c36e17b32929?pvs=21" target="_blank">MediNow 포트폴리오</a>
+                    <a href="https://tropical-quartz-3cb.notion.site/MediNow-1d71311db28780a988e0c36e17b32929" target="_blank">MediNow 포트폴리오</a>
                 </p>
                 <p>
                     <a href="https://medinow.co.kr/" target="_blank">medinow.co.kr</a>
@@ -77,7 +77,7 @@ permalink: /
                     <span class="period">2024.07 ~ 2024.12</span>
                     <p>프론트엔드, 사업 기획, 프로젝트 매니징</p>
                     <p>
-                        <a href="https://www.notion.so/DIY-KITTEN-1d91311db28780bebd1eca87c03adfb4?pvs=21" target="_blank">DIY KITTEN 포트폴리오</a>
+                        <a href="https://tropical-quartz-3cb.notion.site/DIY-KITTEN-1d91311db28780bebd1eca87c03adfb4" target="_blank">DIY KITTEN 포트폴리오</a>
                     </p>
                 </div>
                 <div>
@@ -96,7 +96,7 @@ permalink: /
                     <div>아임웹</div>
                 </div>
                 <span class="period">2022.06 ~ 2024.03</span>
-                <p><a href="https://www.notion.so/1d81311db28780558f41d3fc1afbaa9b?pvs=21" target="_blank">아임웹 포트폴리오</a></p>
+                <p><a href="https://tropical-quartz-3cb.notion.site/1d81311db28780558f41d3fc1afbaa9b" target="_blank">아임웹 포트폴리오</a></p>
                 </div>
                 <div class="projects-wrapper">
                     <div>
