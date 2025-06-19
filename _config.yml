@@ -2,6 +2,9 @@
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
 
+plugins:
+  - jekyll-include-cache
+
 # Site Settings
 locale: "ko-KR"
 title: "은선님의 포트폴리오"
