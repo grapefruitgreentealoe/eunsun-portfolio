@@ -34,7 +34,7 @@ permalink: /
     <section>
       <h2>기술 스택</h2>
       <ul>
-        <li><span class="bold">Frontend</span>: React, TypeScript, Vite, Next.js, Zustand, React Query, Zod, Tailwind CSS, Shadcn UI, Storybook</li>
+        <li><span class="bold">Frontend</span>: React, TypeScript, Vite, Next.js, Zustand, Jotai, React Query, Zod, Tailwind CSS, Shadcn UI, Storybook</li>
         <li><span class="bold">Infra</span>: AWS (EC2, S3, CloudFront, Nginx), GitHub Actions, Docker, GitLab Runner</li>
       </ul>
     </section>
@@ -98,6 +98,7 @@ permalink: /
                     <div>아임웹</div>
                 </div>
                 <span class="period">2022.06 ~ 2024.03</span>
+                <p>프론트엔드</p>
                 <p><a href="https://tropical-quartz-3cb.notion.site/1d81311db28780558f41d3fc1afbaa9b" target="_blank">아임웹 포트폴리오</a></p>
                 </div>
                 <div class="projects-wrapper">
