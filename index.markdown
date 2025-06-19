@@ -10,10 +10,12 @@ permalink: /
       <div class="subtitle">구조 중심 문제 해결과 빠른 릴리즈로 사용자 가치를 만드는 프론트엔드 엔지니어</div>
     </div>
     <div class="header-right">
-      <div><span class="bold">GitHub:</span> @grapefruitgreentealoe</div>
-      <div><span class="bold">LinkedIn:</span> https://www.linkedin.com/in/eunsun-namgung-975391186/</div>
-      <div><span class="bold">Blog:</span> velog.io/@grapefruitgreen/posts</div>
+      <div><span class="bold">GitHub:</span> <a href="https://github.com/grapefruitgreentealoe" target="_blank">@grapefruitgreentealoe</a></div>
+<div><span class="bold">LinkedIn:</span> <a href="https://www.linkedin.com/in/eunsun-namgung-975391186/" target="_blank">https://www.linkedin.com/in/eunsun-namgung-975391186/</a></div>
+<div><span class="bold">Blog:</span> <a href="https://velog.io/@grapefruitgreen" target="_blank">velog.io/@grapefruitgreen</a></div>
+
     </div>
+
   </div>
   <div class="divider"></div>
  <div class="content">
